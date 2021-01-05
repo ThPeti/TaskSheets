@@ -5,7 +5,7 @@
 The following connections have been tested with QGIS version 3.10 and do not require a plugin to add to a QGIS Project.
 
 
-1. Esri World Gray Canvas[(https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x})]
+1. Esri World Gray Canvas[https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}](https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x} "A Tooltip")
 1. [Esri WorldTopoMap](https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x})
 1. Add the remainng ESRI items alphabetically after testing to make sure each works.
 1. [MTB Map](http://tile.mtbmap.cz/mtbmap_tiles/{z}/{x}/{y}.png) Covers Western Europe.
