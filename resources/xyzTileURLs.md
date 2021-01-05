@@ -18,5 +18,5 @@ The following XYZ connections have been tested with QGIS version 3.10 and do not
 1. **Esri World Ocean** [https://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}](https://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x})
 1. **Esri World Ocean Reference** [https://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/{z}/{y}/{x}](https://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/{z}/{y}/{x})
 1. **Esri WorldTopoMap** [https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}](https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x})
-
+1. **Esri USA Topo** [https://server.arcgisonline.com/arcgis/rest/services/USA_Topo_Maps/MapServer/tile/{z}/{y}/{x}](https://server.arcgisonline.com/arcgis/rest/services/USA_Topo_Maps/MapServer/tile/{z}/{y}/{x})
 1. **MTB Map** [http://tile.mtbmap.cz/mtbmap_tiles/{z}/{x}/{y}.png](http://tile.mtbmap.cz/mtbmap_tiles/{z}/{x}/{y}.png) _Covers only Western Europe_.
