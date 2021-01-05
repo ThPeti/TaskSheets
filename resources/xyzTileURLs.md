@@ -14,14 +14,3 @@ The following XYZ connections have been tested with QGIS version 3.10 and do not
 1. **Esri World Ocean Reference** [https://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/{z}/{y}/{x}](https://server.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/{z}/{y}/{x})
 1. **Esri WorldTopoMap** [https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}](https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x})
 1. **MTB Map** [http://tile.mtbmap.cz/mtbmap_tiles/{z}/{x}/{y}.png](http://tile.mtbmap.cz/mtbmap_tiles/{z}/{x}/{y}.png) _Covers only Western Europe_.
-
-
-Formatting Notes:
-Start each item with 1. and it will auto number for us later. 
-The title will appear then as text but put #### around it #### to make it bold
-Between [ ] brackets add the URL the do this again but the URL should be placed inside ( )
-If a note is necessary put the note between two underscores like this  _note here_
-
-1. Second item
-1. Third item
-1. Fourth item 
