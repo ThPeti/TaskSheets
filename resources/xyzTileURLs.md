@@ -25,3 +25,15 @@ The following XYZ connections have been tested with QGIS version 3.10 and do not
 1. **Esri World Terrain** [https://server.arcgisonline.com/arcgis/rest/services/World_Terrain_Base/MapServer/tile/{z}/{y}/{x}](https://server.arcgisonline.com/arcgis/rest/services/World_Terrain_Base/MapServer/tile/{z}/{y}/{x})
 1. **Esri WorldTopoMap** [https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}](https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x})
 1. **MTB Map** [http://tile.mtbmap.cz/mtbmap_tiles/{z}/{x}/{y}.png](http://tile.mtbmap.cz/mtbmap_tiles/{z}/{x}/{y}.png) _Covers only Western Europe_.
+
+
+
+# XYZ Tile Connections for QGIS
+### Last updated: 1/6/2021
+
+The following XYZ connections have been tested with QGIS version 3.10 and do not require a plugin to add to a QGIS Project.
+
+1. **OpenStreetMap Hiking & Biking** [https://tiles.wmflabs.org/hikebike/%7Bz%7D/%7Bx%7D/%7By%7D.png](https://tiles.wmflabs.org/hikebike/%7Bz%7D/%7Bx%7D/%7By%7D.png)
+1. **OpenStreetMap Humanitarian** [http://b.tile.openstreetmap.fr/hot/%7Bz%7D/%7Bx%7D/%7By%7D.png](http://b.tile.openstreetmap.fr/hot/%7Bz%7D/%7Bx%7D/%7By%7D.png)
+1. **OpenStreetMap Stardard** [http://tile.openstreetmap.org/{z}/{x}/{y}.png](http://tile.openstreetmap.org/{z}/{x}/{y}.png)
+1.**Stamen Toner B&W** [http://a.tile.stamen.com/toner/%7Bz%7D/%7Bx%7D/%7By%7D.png](http://a.tile.stamen.com/toner/%7Bz%7D/%7Bx%7D/%7By%7D.png)
