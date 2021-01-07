@@ -36,4 +36,4 @@ The following XYZ connections have been tested with QGIS version 3.10 and do not
 1. **OpenStreetMap Hiking & Biking** [https://tiles.wmflabs.org/hikebike/%7Bz%7D/%7Bx%7D/%7By%7D.png](https://tiles.wmflabs.org/hikebike/%7Bz%7D/%7Bx%7D/%7By%7D.png)
 1. **OpenStreetMap Humanitarian** [http://b.tile.openstreetmap.fr/hot/%7Bz%7D/%7Bx%7D/%7By%7D.png](http://b.tile.openstreetmap.fr/hot/%7Bz%7D/%7Bx%7D/%7By%7D.png)
 1. **OpenStreetMap Stardard** [http://tile.openstreetmap.org/{z}/{x}/{y}.png](http://tile.openstreetmap.org/{z}/{x}/{y}.png)
-1.**Stamen Toner B&W** [http://a.tile.stamen.com/toner/%7Bz%7D/%7Bx%7D/%7By%7D.png](http://a.tile.stamen.com/toner/%7Bz%7D/%7Bx%7D/%7By%7D.png)
+1. **Stamen Toner B&W** [http://a.tile.stamen.com/toner/%7Bz%7D/%7Bx%7D/%7By%7D.png](http://a.tile.stamen.com/toner/%7Bz%7D/%7Bx%7D/%7By%7D.png)
